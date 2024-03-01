@@ -1,0 +1,10 @@
+/ref/*
+/venv/*
+/.idea/*
+csvs/Datas.xlsx
+csvs/Fare.xlsx
+csvs/fare.csv
+data/13.json
+data/tokyo.topojson
+data/tokyo.geojson
+data/japan.geojson
